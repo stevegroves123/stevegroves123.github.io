@@ -8,11 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am an old, daft and slightly mad guy who like to be creative, either using electronics to create silly gadets or software to create Apple IOS or WatchIOS apps.
 
-Lets lok at at how ENUM's work, the example below shows a basic example: 
-
-### Enum
-
-## import UIKit
+```swiftui
+import UIKit
 
 enum Result {
     case Success(score: Int)
@@ -32,16 +29,6 @@ default:
     let examResult = "Unknown score"
     print(examResult)
 }
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
