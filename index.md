@@ -8,12 +8,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am an old, daft and slightly mad guy who like to be creative, either using electronics to create silly gadets or software to create Apple IOS or WatchIOS apps.
 
-```markdown
-Syntax highlighted code block
+Lets lok at at how ENUM's work, the example below shows a basic example: 
 
-# Header 1
-## Header 2
-### Header 3
+### Enum
+
+## import UIKit
+
+enum Result {
+    case Success(score: Int)
+    case Failure(score: Int)
+}
+
+let scored = 1
+
+switch scored {
+case 0..<75:
+    let examResult = Result.Failure(score: scored)
+    print(examResult)
+case 75...100:
+    let examResult = Result.Success(score: scored)
+    print(examResult)
+default:
+    let examResult = "Unknown score"
+    print(examResult)
+}
 
 - Bulleted
 - List
@@ -27,10 +45,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stevegroves123/stevegroves123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
