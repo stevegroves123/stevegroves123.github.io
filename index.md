@@ -9,6 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > I am an old, daft and slightly mad guy who like to be creative, 
 > either using electronics to create silly gadets or software to create Apple IOS or WatchIOS apps.
 
+An example of one silly creation is [Water app for Apple Watch](https://github.com/stevegroves123/WaterLog)
+
 ```swift
 import UIKit
 
