@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### About Me
 
-I am an old, daft and slightly mad guy who like to be creative, either using electronics to create silly gadets or software to create Apple IOS or WatchIOS apps.
+> I am an old, daft and slightly mad guy who like to be creative, 
+> either using electronics to create silly gadets or software to create Apple IOS or WatchIOS apps.
 
 ```swift
 import UIKit
