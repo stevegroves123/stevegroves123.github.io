@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/stevegroves123/stevegroves
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Click on [here](https://github.com/stevegroves123/stevegroves123.github.io/edit/main/tesco.json)
+Click on [here](https://github.com/stevegroves123/stevegroves123.github.io/tesco.json)
 
 ### About Me
 
