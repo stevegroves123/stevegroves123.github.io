@@ -1,26 +1,6 @@
 {
-  "id": 1,
-  "Cupboard": {
-    "Rice": "1kg",
-    "Bread": "1 loaf",
-    "Pasta": "Tube stuff",
-    "Biscuits": "2 packets",
-    "Tea": "240 bags"
-  },
-  "id": 2,
-  "Fridge": {
-    "Cheese": "500gm",
-    "Milk": "6 pts",
-    "Eggs": "1 doz"
-    
-  },
-  "id": 3,
-  "Bathroom": {
-    "Mouth wash": "2 bottles",
-    "Tooth paste": "2 tubes"
-  },
-  "id": 4,
-  "Bedroom": {
-    "Condoms": "12 pk"
-  }
+  "Cupboard",
+  "Fridge",
+  "Bathroom",
+  "Bedroom"
 }
