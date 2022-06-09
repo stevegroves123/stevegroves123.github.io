@@ -1,6 +1,8 @@
-{
+[
+  {
   "Cupboard": "Bread",
   "Fridge": "Cheese",
   "Bathroom": "Tooth paste",
   "Bedroom": "Pillow case"
-}
+  }
+]
