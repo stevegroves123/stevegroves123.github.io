@@ -1,14 +1,14 @@
 [
   {
     "Cupboard": {
-    "Bread": "1 loaf",
-    "Jam": "1 jar",
-    "Pasta": "1 box"
+      "Bread": "1 loaf",
+      "Jam": "1 jar",
+      "Pasta": "1 box"
    },
     "Fridge": {
-      "Cheese", "400 gms",
-      "Eggs", "Medium, 1 doz",
-      "Milk", "Semi - 4 pints"
+      "Cheese": "400 gms",
+      "Eggs": "Medium, 1 doz",
+      "Milk": "Semi - 4 pints"
     }
   }
 ]
