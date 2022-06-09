@@ -1,7 +1,7 @@
 [
   {
   "Cupboard": "Bread",
-  "Fridge": "Cheese",
+  "Fridge": "Cheese","Milk","Eggs",
   "Bathroom": "Tooth paste",
   "Bedroom": "Pillow case"
   }
