@@ -1,9 +1,10 @@
 [
   {
-  "Cupboard": {
+    "id": 1
+    "Cupboard": {
     "Bread": "1 loaf",
     "Jam": "1 jar",
     "Pasta": "1 box"
-    }
+   }
   }
 ]
