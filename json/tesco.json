@@ -1,19 +1,44 @@
 [
   {
-    "Cupboard": {
-      "Bread": "1 loaf",
-      "Jam": "1 jar",
-      "Pasta": "1 box"
+    "item": "Bread",
+    "quantity": "1 loaf",
+    "location": "cupboard",
+    "needed": "y",
+    "notes": ""
    },
-    "Fridge": {
-      "Cheese": "400 gms",
-      "Eggs": "Medium, 1 doz",
-      "Milk": "Semi - 4 pints"
-    },
-    "Freezer": {
-      "Peas": "1kg",
-      "ChipsThin": "1kg",
-      "ChipsFat": "1kg"
-    }
-  }
+   {
+    "item": "Cheese",
+    "quantity": "400 gms",
+    "location": "fridge",
+    "needed": "y",
+    "notes": "Chedder"
+   },
+   {
+    "item": "Frozen Peas",
+    "quantity": "1 packet",
+    "location": "freezer",
+    "needed": "y",
+    "notes": ""
+   },
+   {
+    "item": "Butter",
+    "quantity": "500 gms",
+    "location": "fridge",
+    "needed": "y",
+    "notes": "Flora Lite"
+   },
+   {
+    "item": "Rice",
+    "quantity": "1 kg",
+    "location": "cupboard",
+    "needed": "n",
+    "notes": "Both types"
+   },
+   {
+    "item": "Bacon",
+    "quantity": "3 packets",
+    "location": "freezer",
+    "needed": "y",
+    "notes": ""
+   }
 ]
