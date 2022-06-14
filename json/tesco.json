@@ -40,5 +40,12 @@
     "location": "freezer",
     "needed": "y",
     "notes": ""
+    },
+    {
+    "item": "Chips",
+    "quantity": "1.5 kgs",
+    "location": "freezer",
+    "needed": "y",
+    "notes": "Thick AND thin"
    }
 ]
