@@ -47,5 +47,12 @@
     "location": "freezer",
     "needed": "y",
     "notes": "Thick AND thin"
+   },
+    {
+    "item": "Milk",
+    "quantity": "6 pints",
+    "location": "Fridge",
+    "needed": "y",
+    "notes": ""
    }
 ]
