@@ -31,8 +31,8 @@
     "item": "Rice",
     "quantity": "1 kg",
     "location": "cupboard",
-    "needed": "n",
-    "notes": "Both types"
+    "needed": "y",
+    "notes": "Tilda"
    },
    {
     "item": "Bacon",
