@@ -7,6 +7,13 @@
     "notes": ""
    },
    {
+    "item": "Tea bags",
+    "quantity": "240",
+    "location": "cupboard",
+    "needed": "n",
+    "notes": "Yorkshire Tea"
+   },
+   {
     "item": "Cheese",
     "quantity": "400 gms",
     "location": "fridge",
