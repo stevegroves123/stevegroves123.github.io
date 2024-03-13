@@ -61,5 +61,12 @@
     "location": "Fridge",
     "needed": "y",
     "notes": ""
-   }
+   },
+   {
+   "item": "Eggs",
+   "quantity": "1 doz",
+   "location": "Fridge",
+   "needed": "n",
+   "notes": "medium size"
+  }
 ]
